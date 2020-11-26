@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk8",
+      "title": "lowdb is awesome",
+      "content": "LowDB is a great tool for simulating data",
+      "createdAt": 1252522
+    },
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk9",
+      "title": "lowdb is awesome",
+      "content": "LowDB is a great tool for simulating data",
+      "createdAt": 1252522636363636
+    },
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk9",
+      "title": "lowdb is awesome",
+      "content": "LowDB is a great tool for simulating data",
+      "createdAt": 1252522636363636
+    },
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk9",
+      "title": "lowdb is awesome",
+      "content": "LowDB is a great tool for simulating data",
+      "createdAt": 1252522636363636
+    },
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk9",
+      "title": "lowdb is awesome",
+      "content": "LowDB is a great tool for simulating data",
+      "createdAt": 1252522636363636
+    },
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk9",
+      "title": "lowdb is awesome",
+      "content": "LowDB is a great tool for simulating data",
+      "createdAt": 1252522636363636
+    },
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk9",
+      "title": "lowdb is awesome",
+      "content": "LowDB is a great tool for simulating data",
+      "createdAt": 1252522636363636
+    },
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk9",
+      "title": "lowdb is awesome",
+      "content": "LowDB is a great tool for simulating data",
+      "createdAt": 1252522636363636
+    },
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk9",
+      "title": "lowdb is awesome",
+      "content": "LowDB is a great tool for simulating data",
+      "createdAt": 1252522636363636
+    }
+  ],
+  "user": {
+    "id": "V1StGXR8_Z5jdHi6B-myT",
+    "username": "trungnv184"
+  }
+}
