@@ -10,7 +10,7 @@ const typeDefs = gql`
 
   type User {
     id: String!
-    name: String!
+    username: String!
   }
 
   input PostInput {
@@ -19,7 +19,8 @@ const typeDefs = gql`
   }
 
   input UserInput {
-    id: String!
+    id: String
+    username: String
   }
 
   type Query {

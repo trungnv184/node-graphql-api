@@ -2,8 +2,6 @@ const nanoid = require("nanoid");
 const createPostModel = (db) => {
   return {
     findAll() {
-      console.log(db.get("posts").value());
-
       return db.get("posts").value();
     },
     findMany(filter) {

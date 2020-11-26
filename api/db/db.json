@@ -1,9 +1,38 @@
 {
   "posts": [
-    { "id": "V1StGXR8_Z5jdHi6B-vk8", "title": "lowdb is awesome", "content": "LowDB is a great tool for simulating data", "createdAt": 1252522 }
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk8",
+      "title": "lowdb is awesome",
+      "content": "LowDB is a great tool for simulating data",
+      "createdAt": 1606363322150
+    },
+    {
+      "id": "V1StGXR8_Z5jdHi6B-vk9",
+      "title": "ReactJS",
+      "content": "ReactJS is a greate framework for front-end developer",
+      "createdAt": 1606363028150
+    }
   ],
-  "user": {
-    "id": "V1StGXR8_Z5jdHi6B-myT",
-    "username": "trungnv184"
-  }
+  "users": [
+    {
+      "id": "1",
+      "username": "trungnv184"
+    },
+    {
+      "id": "2",
+      "username": "alex"
+    },
+    {
+      "id": "3",
+      "username": "kute"
+    },
+    {
+      "id": "4",
+      "username": "velo"
+    },
+    {
+      "id": "5",
+      "username": "lenar"
+    }
+  ]
 }
